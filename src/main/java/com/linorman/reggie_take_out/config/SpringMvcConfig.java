@@ -1,6 +1,5 @@
 package com.linorman.reggie_take_out.config;
 
-import com.alibaba.fastjson.support.spring.FastJsonHttpMessageConverter;
 import com.linorman.reggie_take_out.common.JacksonObjectMapper;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.converter.HttpMessageConverter;
